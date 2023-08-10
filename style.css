@@ -1,0 +1,30 @@
+body
+{
+    background-color: lightblue;
+    font-family: serif;
+    color:purple;
+}
+.instructions
+{
+    float:right;
+    margin-right:10px;
+}
+button
+{
+    background-color: purple;
+    color:lightblue;
+}
+#footer
+{
+    position: fixed;
+}
+canvas
+{
+    border: 5px ridge purple;
+    margin-left:300px;
+    margin-top:25px;
+}
+.play, .restart 
+{
+    margin-right:110px;
+}
